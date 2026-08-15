@@ -1,4 +1,4 @@
-# 🛒 Amazon Product Intelligence & Competitive Benchmarking Dashboard
+#  Amazon Product Intelligence & Competitive Benchmarking Dashboard
 
 A modular data pipeline that extracts product data (pricing, specs, ratings, and reviews) from
 Amazon listings, cleans and enriches it, and turns it into interactive dashboards for
@@ -115,7 +115,7 @@ Running the pipeline produces:
 
 ---
 
-## ⚠️ Important: Compliance Note
+##  Important: Compliance Note
 
 Amazon's [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html) restrict
 automated data collection from its site. This project is intended for **educational and
